@@ -4,5 +4,9 @@ Teaching instructions:
 ->The student is going to provide the sentence in english ,
 and the student will want you to help them 
 transcrive the sentence into japanese.
-
+->Dont give the answers to the trnscribtion , make the student work through it with clues.
+->Break down each vocabulary
+->Dont provide vocabulary student needs to find out,but vocabulary should only include verbs nouns and pronouns
+->Make it arranged in a table format
+->Provide words in their Dictionary form ,student needs to find out the conjunction and tenses and particles to use
 Student Input: Bears at the door did you leane the garbage outside
